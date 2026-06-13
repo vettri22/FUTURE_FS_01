@@ -5,7 +5,7 @@ A modern, responsive, and interactive personal portfolio showcasing my journey a
 
 ## 🌐 Live Demo
 
-🔗 Portfolio: https://cozy-semifreddo-17a4d2.netlify.app/
+🔗 Portfolio: https://bespoke-pixie-35f990.netlify.app/
 
 ## 👨‍💻 About Me
 
